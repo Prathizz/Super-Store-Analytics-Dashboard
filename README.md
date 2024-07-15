@@ -58,31 +58,5 @@ The Superstore Analytics Dashboard provides an at-a-glance view of key performan
 
 - **Tools and Technologies**:
   - Visualization tools (e.g., Tableau, Power BI).
-  - Data processing and aggregation (e.g., SQL, Excel).
+  - Data processing and aggregation (e.g., Excel).
 
-## Installation and Setup
-
-1. **Prerequisites**:
-   - Ensure you have the necessary software installed (e.g., Tableau, Power BI).
-   - Access to the data sources and proper permissions to view and manipulate the data.
-
-2. **Setup**:
-   - Import the data into the visualization tool.
-   - Load the dashboard template and connect it to the data source.
-   - Customize and configure the dashboard as needed to fit your specific business context.
-
-## Contributing
-
-1. **Feedback**:
-   - Provide feedback or suggestions for improvements by contacting the project maintainer.
-
-2. **Reporting Issues**:
-   - Report any issues or bugs through the issue tracker on the project repository.
-
-## License
-
-- This project is licensed under the MIT License.
-
-## Contact
-
-- For further information or inquiries, please contact [your email/contact information].
