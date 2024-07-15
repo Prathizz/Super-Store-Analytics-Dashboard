@@ -57,6 +57,7 @@ The Superstore Analytics Dashboard provides an at-a-glance view of key performan
   - The dashboard aggregates data from sales transactions, returns, and profit calculations.
 
 - **Tools and Technologies**:
-  - Visualization tools (e.g., Tableau, Power BI).
+  - Visualization tools (e.g., Power BI).
   - Data processing and aggregation (e.g., Excel).
+  - DAX
 
